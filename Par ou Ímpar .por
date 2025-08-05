@@ -1,7 +1,6 @@
 programa {
   funcao inicio() {
     inteiro numero, resultado
-    logico diferente=falso 
     enquanto(numero!=0){
     escreva("digite um número: ")
     leia(numero)
