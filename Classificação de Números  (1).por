@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
     inteiro numero 
-   para(numero=0;numero<=10;numero++){
+   para(inteiro i=0;i<=10;i++){
     escreva("digite um número:")
     leia(numero)
     se(numero>0){
